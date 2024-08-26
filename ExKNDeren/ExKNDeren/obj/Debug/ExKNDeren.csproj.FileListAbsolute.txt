@@ -1,0 +1,17 @@
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\MainWindow.g.cs
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\App.g.cs
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren_MarkupCompile.cache
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren_MarkupCompile.lref
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\Game.g.cs
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\bin\Debug\ExKNDeren.exe.config
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\bin\Debug\ExKNDeren.exe
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\bin\Debug\ExKNDeren.pdb
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\MainWindow.baml
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\Game.baml
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren.g.resources
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren.Properties.Resources.resources
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren.csproj.GenerateResource.cache
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren.exe
+C:\Users\sony\source\repos\ExKNDeren\ExKNDeren\obj\Debug\ExKNDeren.pdb

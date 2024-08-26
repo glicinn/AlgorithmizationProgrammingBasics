@@ -1,0 +1,15 @@
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\bin\Debug\ExZhurnalDeren.exe.config
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\bin\Debug\ExZhurnalDeren.exe
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\bin\Debug\ExZhurnalDeren.pdb
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\MainWindow.g.cs
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\App.g.cs
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren_MarkupCompile.cache
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren_MarkupCompile.lref
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\MainWindow.baml
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren.g.resources
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren.Properties.Resources.resources
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren.csproj.GenerateResource.cache
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren.exe
+C:\Users\sony\source\repos\ExZhurnalDeren\ExZhurnalDeren\obj\Debug\ExZhurnalDeren.pdb

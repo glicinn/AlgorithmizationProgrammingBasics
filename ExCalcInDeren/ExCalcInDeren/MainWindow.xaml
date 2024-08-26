@@ -1,0 +1,58 @@
+﻿<Window x:Class="ExCalcInDeren.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExCalcInDeren"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowStartupLocation="CenterScreen" Height="434.005" Width="519.396">
+    <Grid Margin="0,0,-0.4,0.2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="3" Name="PlusButton" Grid.Row="1"  Content="+"  Click="PlusButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue" Foreground="Black"/>
+
+        <Button Name="MinusButton" Grid.Row="2" Grid.Column="3" Content="-"  Click="MinusButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black" Margin="0,79,0,0" Grid.RowSpan="2"/>
+        <Button Grid.Column="3" Grid.Row="2" Name="MultButton" Content="*"  RenderTransformOrigin="0.643,3.339" Click="MultButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="4" Grid.Row="3" Name="DivideButton" Content="/"  RenderTransformOrigin="0.643,3.339" Click="DivideButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="2" Grid.Row="4" Name="CleareButton" Content="C"  RenderTransformOrigin="0.643,3.339" Click="CButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue" Foreground="Black"/>
+        <Button Name="OneButton" Grid.Row="1" Content="1" RenderTransformOrigin="0.643,3.339" Click="OneButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue" Foreground="Black" Grid.Column="0"/>
+        <Button Grid.Column="1" Name="SecondButton" Grid.Row="1"  Content="2"  RenderTransformOrigin="0.403,0.422" Click="SecondButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="2" Name="ThreeButton" Grid.Row="1"  Content="3"   RenderTransformOrigin="2.071,2.019" Click="ThreeButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="0" Name="FourButton" Grid.Row="2" Content="4"  Click="FourButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="1" Name="FiveButton" Grid.Row="2" Content="5"  RenderTransformOrigin="0.59,1.247" Click="FiveButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="2" Name="SixButton" Grid.Row="2" Content="6"   RenderTransformOrigin="1.905,0.719" Click="SixButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="0" Grid.Row="3" Name="SevenButton" Content="7"   RenderTransformOrigin="0.643,3.339" Click="SevenButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="1" Grid.Row="3" Name="EighButton" Content="8"   RenderTransformOrigin="0.643,3.339" Click="EighButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue" Foreground="Black"/>
+        <Button Grid.Column="2" Grid.Row="3" Name="NineButton" Content="9"  RenderTransformOrigin="0.643,3.339" Click="NineButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="1" Grid.Row="4" Name="ZeroButton" Content="0"  RenderTransformOrigin="0.643,3.339" Click="ZeroButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.ColumnSpan="2" Name="RavnoButton" Content="="  RenderTransformOrigin="0.643,3.339" Click="RavnoButton_Click" FontFamily="Arial Black" FontSize="22" Background="DarkCyan" Grid.Column="5" Grid.Row="5"  Foreground="Black"/>
+        <Button Grid.Column="0" Grid.Row="4" Name="PointButton" Content="," RenderTransformOrigin="0.643,3.339" Click="PointButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <TextBox Name="Itog" IsReadOnly="True"  FontSize="20" FontFamily="Arial Black" Background="LightGray"   Grid.ColumnSpan="7" Grid.Row="0" Foreground="Black"/>
+        <Button Grid.Column="3" Grid.Row="4" Name="KvadButton" Content="^2"  RenderTransformOrigin="0.643,3.339" Click="KvadButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Row="1" Grid.Column="5" Name="FactButton" Content="n!"  RenderTransformOrigin="0.643,3.339" Click="FactButton_Click" FontFamily="Arial Black" FontSize="22" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="4" Grid.Row="2" Name="KorenButton" Content="√"  RenderTransformOrigin="0.643,3.339" Click="KorenButton_Click" FontFamily="Arial Black" FontSize="36" Background="CadetBlue"  Foreground="Black"/>
+
+        <Button Grid.Column="5" Grid.Row="2" Name="LogButton" Content="Log"  RenderTransformOrigin="0.643,3.339" Click="LogButton_Click" FontFamily="Arial Black" FontSize="20" Background="CadetBlue"  Foreground="Black"/>
+        <Button  Grid.Column="5" Grid.Row="3" Name="DelButton" Content="Del"  RenderTransformOrigin="0.643,3.339" Click="DelButton_Click" FontFamily="Arial Black" FontSize="20" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="4" Name="ZamZButton" Content="±"  RenderTransformOrigin="0.643,3.339" Click="ZamZButton_Click" FontFamily="Arial Black" FontSize="20" Background="CadetBlue"  Foreground="Black" Margin="0,0,0,1" Grid.Row="1"/>
+        <Button Grid.Column="4" Grid.Row="4" Name="KubButton" Content="^3"  RenderTransformOrigin="0.643,3.339" Click="KubButton_Click" FontFamily="Arial Black" FontSize="20" Background="CadetBlue"  Foreground="Black"/>
+        <Button  Grid.Column="6" Grid.Row="2" x:Name="cosButton" Content="cos"  RenderTransformOrigin="0.643,3.339" Click="cosButton_Click" FontFamily="Arial Black" FontSize="20" Background="CadetBlue"  Foreground="Black"/>
+        <Button Grid.Column="6" Grid.Row="3" x:Name="tanButton" Content="tan"  RenderTransformOrigin="0.643,3.339" Click="tanButton_Click" FontFamily="Arial Black" FontSize="20" Background="CadetBlue" Foreground="Black"/>
+        <Button Grid.Column="6" x:Name="sinButton" Grid.Row="1"  Content="sin" RenderTransformOrigin="0.643,3.339" Click="sinButton_Click" FontFamily="Arial Black" FontSize="20" Background="CadetBlue" Foreground="Black"/>
+
+    </Grid>
+</Window>

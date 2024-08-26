@@ -1,0 +1,17 @@
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\bin\Debug\ExSkladDeren.exe.config
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\bin\Debug\ExSkladDeren.exe
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\bin\Debug\ExSkladDeren.pdb
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\Kat.g.cs
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\MainWindow.g.cs
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\App.g.cs
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren_MarkupCompile.cache
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren_MarkupCompile.lref
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\Kat.baml
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\MainWindow.baml
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren.g.resources
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren.Properties.Resources.resources
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren.csproj.GenerateResource.cache
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren.exe
+C:\Users\sony\source\repos\ExSkladDeren\ExSkladDeren\obj\Debug\ExSkladDeren.pdb

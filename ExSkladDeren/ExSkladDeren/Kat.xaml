@@ -1,0 +1,16 @@
+﻿<Window x:Class="ExSkladDeren.Kat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExSkladDeren"
+        mc:Ignorable="d"
+        Title="Kat" Height="450" Width="800" Background="CadetBlue">
+    <Grid>
+
+        <Label FontWeight="Black" Content="Введите название новой категории: " FontSize="30" HorizontalAlignment="Left" Margin="141,33,0,0" VerticalAlignment="Top" Height="75" Width="540"/>
+        <Button FontWeight="Black" Content="Добавить" HorizontalAlignment="Left" FontSize="30" Margin="297,211,0,0" VerticalAlignment="Top" Width="206" Height="49" Click="Button_Click"/>
+        <TextBox Name="cat" Background="AliceBlue" HorizontalAlignment="Left" Height="66" Margin="248,108,0,0" TextWrapping="Wrap" FontFamily="Cambria" FontSize="30" VerticalAlignment="Top" Width="306" />
+        <Button FontWeight="Black" Content="&lt;----" HorizontalAlignment="Left" FontSize="30" Margin="21,315,0,0" VerticalAlignment="Top" Width="206" Height="49" Click="Button_Click_1"/>
+    </Grid>
+</Window>

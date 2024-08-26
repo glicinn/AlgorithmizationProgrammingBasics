@@ -1,0 +1,15 @@
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\bin\Debug\ExSortDeren.exe.config
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\bin\Debug\ExSortDeren.exe
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\bin\Debug\ExSortDeren.pdb
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\MainWindow.g.cs
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\App.g.cs
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren_MarkupCompile.cache
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren_MarkupCompile.lref
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\MainWindow.baml
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren.g.resources
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren.Properties.Resources.resources
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren.csproj.GenerateResource.cache
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren.exe
+C:\Users\sony\source\repos\ExSortDeren\ExSortDeren\obj\Debug\ExSortDeren.pdb

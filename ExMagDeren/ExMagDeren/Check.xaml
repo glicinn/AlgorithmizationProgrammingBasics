@@ -1,0 +1,15 @@
+﻿<Window x:Class="ExMagDeren.Check"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExMagDeren"
+        mc:Ignorable="d"
+        Title="Check" Height="450" Width="800" Background="CadetBlue">
+    <Grid>
+        <TextBlock x:Name="Sum" IsEnabled="false"></TextBlock>
+        <Label FontSize="25" Content="Итоговая стоимость:" FontWeight="Black" Margin="175,58,158,324" />
+        <TextBox x:Name="gods" IsEnabled="false" Margin="175,100,158,142"/>
+        <Button Content="Сохранить файл" FontSize="25" FontWeight="Black" Click="Button_Click" Margin="528,309,41,42"/>
+    </Grid>
+</Window>

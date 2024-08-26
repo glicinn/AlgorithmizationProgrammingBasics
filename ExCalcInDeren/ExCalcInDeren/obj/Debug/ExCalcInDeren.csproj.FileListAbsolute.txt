@@ -1,0 +1,15 @@
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\bin\Debug\ExCalcInDeren.exe.config
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\bin\Debug\ExCalcInDeren.exe
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\bin\Debug\ExCalcInDeren.pdb
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\MainWindow.g.cs
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\App.g.cs
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren_MarkupCompile.cache
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren_MarkupCompile.lref
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\MainWindow.baml
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren.g.resources
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren.Properties.Resources.resources
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren.csproj.GenerateResource.cache
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren.exe
+C:\Users\sony\source\repos\ExCalcInDeren\ExCalcInDeren\obj\Debug\ExCalcInDeren.pdb

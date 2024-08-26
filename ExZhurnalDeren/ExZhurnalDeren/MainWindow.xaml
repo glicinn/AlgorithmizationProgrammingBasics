@@ -1,0 +1,45 @@
+﻿<Window x:Class="ExZhurnalDeren.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExZhurnalDeren"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="CadetBlue">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <TextBlock FontWeight="Black" Grid.Row="1" Text="Фамилия:" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBox Name="tbSecName" Grid.Row="1" Grid.Column="1" FontSize="30" VerticalAlignment="Center"/>
+        <TextBlock FontWeight="Black" Grid.Row="2" Text="Имя:" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBox Name="tbName" Grid.Row="2" Grid.Column="1" FontSize="30" VerticalAlignment="Center"/>
+        <TextBlock FontWeight="Black" Grid.Row="3" Text="Отчество:" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBox Name="tbMidName" Grid.Row="3" Grid.Column="1" FontSize="30" VerticalAlignment="Center"/>
+        <Button FontWeight="Black" Name="btAdd" Grid.Row="1" Grid.Column="2" FontSize="30" Content="Добавить" Click="btAdd_Click" Margin="27,10,0,0"/>
+        <Button FontWeight="Black" Name="btDelete" Grid.Row="1" Grid.Column="3" FontSize="30" Content="Удалить" Click="btDelete_Click" Margin="0,10,32,0"/>
+        <DataGrid Name="dgStudent" Grid.ColumnSpan="4">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding SecName}"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding MidName}"/>
+                <DataGridTextColumn Header="Дата оценки" Binding="{Binding Date}"/>
+                <DataGridTextColumn Header="Оценка" Binding="{Binding Mark}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock FontWeight="Black" Grid.Row="2" Grid.Column="2" Text="Оценка:" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="43,10,31,10"/>
+        <TextBox Name="tbMark" Grid.Row="2" Grid.Column="3" FontSize="30" VerticalAlignment="Center"/>
+        <TextBlock FontWeight="Black" Grid.Row="3" Grid.Column="2" Text="Дата:" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBox Name="tbDate" Grid.Row="3" Grid.Column="3" FontSize="30" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

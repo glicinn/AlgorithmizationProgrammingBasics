@@ -1,0 +1,15 @@
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\bin\Debug\ExValDeren.exe.config
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\bin\Debug\ExValDeren.exe
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\bin\Debug\ExValDeren.pdb
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\MainWindow.g.cs
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\App.g.cs
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren_MarkupCompile.cache
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren_MarkupCompile.lref
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\MainWindow.baml
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren.g.resources
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren.Properties.Resources.resources
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren.csproj.GenerateResource.cache
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren.exe
+C:\Users\sony\source\repos\ExValDeren\ExValDeren\obj\Debug\ExValDeren.pdb

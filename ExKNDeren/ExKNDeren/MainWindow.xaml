@@ -1,0 +1,14 @@
+﻿<Window x:Class="ExKNDeren.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExKNDeren"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="CadetBlue">
+    <Grid>
+        <Button FontWeight="Black" FontSize="20" Content="Играть" HorizontalAlignment="Left" Margin="289,303,0,0" VerticalAlignment="Top" Width="199" Height="55" Click="Button_Click_1"/>
+        <Label FontWeight="Black" FontSize="50" Content="Крестики-Нолики" Margin="167,38,140,300"/>
+        <Label FontStyle="Italic" FontSize="30" Content="Ofline" VerticalAlignment="Top" Margin="357,105,346,0" Height="54"/>
+    </Grid>
+</Window>

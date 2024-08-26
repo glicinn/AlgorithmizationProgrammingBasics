@@ -1,0 +1,33 @@
+﻿<Window x:Class="ExSortDeren.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExSortDeren"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300" Background="CadetBlue">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListBox Name="lb" FontSize="25" FontWeight="Black" Margin="35,10,40,70" Grid.RowSpan="3" Grid.ColumnSpan="3">
+            <ListBoxItem Content="9"/>
+            <ListBoxItem Content="4"/>
+            <ListBoxItem Content="1"/>
+            <ListBoxItem Content="7"/>
+            <ListBoxItem Content="5"/>
+            <ListBoxItem Content="2"/>
+            <ListBoxItem Content="8"/>
+            <ListBoxItem Content="6"/>
+            <ListBoxItem Content="3"/>
+        </ListBox>
+        <Button Name="sort" Content="Сортировка" FontSize="25" FontWeight="Black" Click="sort_Click" Margin="35,269,40,10" Grid.Row="2" Grid.ColumnSpan="3"/>
+    </Grid>
+</Window>

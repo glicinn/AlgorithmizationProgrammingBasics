@@ -1,0 +1,6 @@
+C:\Users\sony\source\repos\ExMagDeren\ExMagDeren\obj\Debug\ExMagDeren.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\ExMagDeren\ExMagDeren\obj\Debug\MainWindow.g.cs
+C:\Users\sony\source\repos\ExMagDeren\ExMagDeren\obj\Debug\App.g.cs
+C:\Users\sony\source\repos\ExMagDeren\ExMagDeren\obj\Debug\ExMagDeren_MarkupCompile.cache
+C:\Users\sony\source\repos\ExMagDeren\ExMagDeren\obj\Debug\ExMagDeren_MarkupCompile.lref
+C:\Users\sony\source\repos\ExMagDeren\ExMagDeren\obj\Debug\Check.g.cs
